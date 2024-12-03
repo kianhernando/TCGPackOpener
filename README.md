@@ -1,12 +1,4 @@
-this is a test edit
-
-this is ANOTHER test edit
-
-one more test edit
-
-another
-
-final test edit!
+TESTTTTT
 
 # Getting Started with Create React App
 
